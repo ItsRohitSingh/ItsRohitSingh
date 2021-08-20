@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @RohitSingh
 - 👀 I’m interested in Software Developer role.
 - 🌱 I’m currently attending the training of Java Full Stack Development at Revature India
-- 📫 You can reach to me on my E-mail ID at rsrohitsingh931@gmail.com
+- 📫 You can reach to me on my E-mail ID at <a href="mailto:rsrohitsingh931@gmail.com">rsrohitsingh931@gmail.com</a>
 
 ---
 
@@ -13,7 +13,7 @@ My specialization was Electronics and Communication Engineering (ECE) &#128241;.
 
 ---
 
-I have acquired so many skills throughout my graduation. They are :
+I have acquired so many skills so far. They are :
 - Python <img src="https://engineering.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png" width="15px">
 - Java <img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/ed5569e8-c0dd-458c-8450-cde6300093bd/File/a5023b0f0fb67f59176a0499af9021ed/java_horz_clr.png" width="20px">
 - C/C++ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="15px">
@@ -28,12 +28,13 @@ I have acquired so many skills throughout my graduation. They are :
 
 ---
 
-I have completed many projects during my graduatiion. They are :
+I have completed many projects so far. They are :
 - Chatbot: A COVID-19 Helper <img src="https://media.tenor.com/images/e67a4f3ccadcbf4888111ccf06166733/tenor.gif" width="20px">
 - GUI-Based RealTime Gender Classification System &#9794;&#9792;
 - Smart Mirror using Raspberry Pi  <img src="https://miro.medium.com/max/4800/1*8ie9uaMdschRRgAM79jpFA.png" width="45px">
 - ECommerce Website using WordPress and AWS <img src="https://thetechportal.com/wp-content/uploads/2019/12/aws-logo.png" width="30px">
 - Snake Game using C++ &#128013;
+- <a href="https://github.com/ItsRohitSingh/revature-training/tree/main/Project1">Creating Commerce</a> using Java, SQL and JDBC <img src="https://www.pngitem.com/pimgs/b/465-4653544_e-commerce-icon-png.png" width="20px">
 
 Thank you so much for visiting my profile!
 
