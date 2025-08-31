@@ -31,7 +31,7 @@ Java Backend Developer with **4 years of experience** building scalable, secure,
 
 ### **Accenture – Senior Analyst**
 📍 Gurugram, Haryana | 🗓️ Nov 2024 – Present  
-**Client:** FedEx – Supply Chain Operations
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Client:** FedEx – Supply Chain Operations
 
 - Designed and implemented **Spring Boot REST APIs** for logistics operations, reducing response time by **18%**.
 - Built **event-driven microservices** using JMS, ensuring scalability and high availability.
@@ -42,7 +42,7 @@ Java Backend Developer with **4 years of experience** building scalable, secure,
 
 ### **Infosys – Digital Specialist Engineer**
 📍 Gurugram, Haryana | 🗓️ Jan 2022 – Nov 2024  
-**Client:** BNSF – Workforce Management & Line Management System
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Client:** BNSF – Workforce Management & Line Management System
 
 - Developed and deployed **REST APIs and microservices** for railway workforce and line management systems.
 - Improved **workforce scheduling efficiency by 15%** through optimized backend services.
