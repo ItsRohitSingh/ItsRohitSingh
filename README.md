@@ -92,8 +92,8 @@ I am a **Java Backend Developer** with **4 years of experience** building scalab
 
 <div align="center">
   <h3>📉 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsRohitSingh&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRohitSingh&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsrohitsingh&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrohitsingh&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 ---
